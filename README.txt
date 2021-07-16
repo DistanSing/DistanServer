@@ -5,6 +5,9 @@ In order to run the server take these steps in the terminal:
 Make sure you have flask and bcrypt using:
 pip3 install bcrypt
 pip3 install flask
+pip3 install flask_sqlalchemy
+pip3 install flask_login
+
 
 make sure the virtual environment is activated:
 from "DistanServer/" run in the terminal:
